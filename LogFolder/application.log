@@ -1,0 +1,75 @@
+[DEBUG] 2023-04-28 20:50:38.302 [main] TestBase - lOGIN PAGE SUCESFULLY
+[DEBUG] 2023-05-02 20:33:11.007 [main] TestBase - lOGIN PAGE SUCESFULLY
+[DEBUG] 2023-05-02 20:34:18.034 [main] TestBase - lOGIN PAGE SUCESFULLY
+[DEBUG] 2023-05-02 20:50:40.832 [main] TestBase - lOGIN PAGE SUCESFULLY
+[DEBUG] 2023-05-02 20:54:28.820 [main] TestBase - lOGIN PAGE SUCESFULLY
+[DEBUG] 2023-05-02 22:32:23.204 [main] TestBase - lOGIN PAGE SUCESFULLY
+[DEBUG] 2023-05-02 22:34:34.843 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-02 22:54:54.558 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-02 22:55:44.387 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-02 22:59:38.968 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-02 23:00:57.756 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-02 23:02:28.521 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-02 23:02:38.207 [main] TestBase - New Customer is Created
+[INFO ] 2023-05-02 23:03:38.554 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-02 23:03:47.518 [main] TestBase - New Customer is Created
+[INFO ] 2023-05-02 23:05:55.836 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-02 23:06:07.777 [main] TestBase - New Customer is Created
+[INFO ] 2023-05-02 23:06:49.207 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-02 23:18:11.078 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-02 23:20:52.236 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-02 23:21:09.491 [main] TestBase - New Customer is Created
+[INFO ] 2023-05-03 08:11:57.602 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-03 08:12:09.169 [main] TestBase - New Customer is Created
+[INFO ] 2023-05-03 08:13:30.462 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-03 08:13:44.509 [main] TestBase - New Customer is Created
+[INFO ] 2023-05-03 08:27:41.364 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-03 08:27:54.286 [main] TestBase - New Customer is Created
+[INFO ] 2023-05-03 08:39:16.554 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-03 08:39:34.144 [main] TestBase - New Customer is Created
+[INFO ] 2023-05-03 08:40:20.375 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-03 08:43:41.284 [main] TestBase - lOGIN PAGE SUCESFULLY
+[ERROR] 2023-05-03 08:43:51.275 [main] TestBase - Customer Already Exists
+[INFO ] 2023-05-03 08:45:16.416 [main] TestBase - lOGIN PAGE SUCESFULLY
+[ERROR] 2023-05-03 08:45:35.244 [main] TestBase - Customer Already Exists
+[INFO ] 2023-05-03 08:45:35.615 [main] TestBase - New Customer is Created
+[INFO ] 2023-05-03 09:17:41.801 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-03 19:17:26.560 [main] TestBase - lOGIN PAGE SUCESFULLY
+[ERROR] 2023-05-03 19:17:36.249 [main] TestBase - Customer Already Exists
+[INFO ] 2023-05-03 19:24:01.995 [main] TestBase - lOGIN PAGE SUCESFULLY
+[ERROR] 2023-05-03 19:24:16.231 [main] TestBase - Customer Already Exists
+[INFO ] 2023-05-03 19:24:16.244 [main] TestBase - New Customer is Created
+[INFO ] 2023-05-03 19:26:47.206 [main] TestBase - lOGIN PAGE SUCESFULLY
+[ERROR] 2023-05-03 19:27:01.294 [main] TestBase - Customer Already Exists
+[INFO ] 2023-05-03 19:27:01.811 [main] TestBase - New Customer is Created
+[INFO ] 2023-05-04 18:54:01.903 [main] TestBase - lOGIN PAGE SUCESFULLY
+[ERROR] 2023-05-04 18:54:19.566 [main] TestBase - Customer Already Exists
+[INFO ] 2023-05-04 18:54:19.585 [main] TestBase - New Customer is Created
+[INFO ] 2023-05-04 18:59:04.938 [main] TestBase - lOGIN PAGE SUCESFULLY
+[ERROR] 2023-05-04 18:59:14.659 [main] TestBase - Customer Already Exists
+[INFO ] 2023-05-23 19:39:22.764 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-23 19:40:01.829 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-23 19:52:33.024 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-23 19:53:26.507 [main] TestBase - lOGIN PAGE SUCESFULLY
+[ERROR] 2023-05-23 19:53:37.685 [main] TestBase - Customer Already Exists
+[INFO ] 2023-05-24 17:16:14.833 [main] TestBase - lOGIN PAGE SUCESFULLY
+[ERROR] 2023-05-24 17:16:29.335 [main] TestBase - Customer Already Exists
+[INFO ] 2023-05-26 19:37:31.539 [main] TestBase - lOGIN PAGE SUCESFULLY
+[ERROR] 2023-05-26 19:37:44.273 [main] TestBase - Customer Already Exists
+[INFO ] 2023-05-26 19:37:44.286 [main] TestBase - New Customer is Created
+[INFO ] 2023-05-26 19:46:09.424 [main] TestBase - lOGIN PAGE SUCESFULLY
+[ERROR] 2023-05-26 19:46:26.475 [main] TestBase - Customer Already Exists
+[INFO ] 2023-05-26 20:07:31.709 [main] TestBase - lOGIN PAGE SUCESFULLY
+[ERROR] 2023-05-26 20:07:49.579 [main] TestBase - Customer Already Exists
+[INFO ] 2023-05-26 20:07:49.610 [main] TestBase - New Customer is Created
+[INFO ] 2023-05-26 20:08:30.323 [main] TestBase - lOGIN PAGE SUCESFULLY
+[ERROR] 2023-05-26 20:08:48.294 [main] TestBase - Customer Already Exists
+[INFO ] 2023-05-26 20:08:48.306 [main] TestBase - New Customer is Created
+[INFO ] 2023-05-26 20:46:27.957 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-26 20:47:46.638 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-26 20:50:30.504 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-26 20:52:54.887 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-26 20:54:56.817 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-05-26 20:55:20.059 [main] TestBase - New Customer is Created
+[INFO ] 2023-06-02 11:52:39.494 [main] TestBase - lOGIN PAGE SUCESFULLY
+[INFO ] 2023-06-02 11:53:00.735 [main] TestBase - New Customer is Created
