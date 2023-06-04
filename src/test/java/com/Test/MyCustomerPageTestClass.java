@@ -18,7 +18,7 @@ public class MyCustomerPageTestClass extends TestBase{
         lpage.setUserName(Username);
         lpage.setPassWordName(Password);
         lpage.clickOnLoginButton();
-        Thread.sleep(3000);
+
     }
     @Test(priority = 2)
     public void creatNewCustomer(){
